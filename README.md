@@ -14,3 +14,5 @@ Single Page Application (SPA) using vanilla JS , with functional Back/Forward an
 An SPA (Single-page application) is a web app implementation that loads only a single web document, and then updates the body content of that single document, instead of the default method of a web browser loading entire new pages.
 
 My project consists of 3 simple  pages “Home, About and contact us” , every time a link is clicked  the body content is reloaded without loading an entire new page.
+
+Don't hesitate to contact me for further updates or error found :)
